@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thinkdifferentor
 - 👀 I’m interested in programming & traveling
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning deeplearning
 - 💞️ I’m looking to collaborate on mobile internet development
 - 📫 How to reach me light_up@163.com
 
