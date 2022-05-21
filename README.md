@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thinkdifferentor
-- 👀 I’m interested in programming & traveling
-- 🌱 I’m currently learning deeplearning
-- 💞️ I’m looking to collaborate on mobile internet development
+- 👀 I’m interested in researching & traveling
+- 🌱 I’m currently learning deeplearning & medic imaging analysis
+- 💞️ I’m looking to collaborate on medic image process
 - 📫 How to reach me light_up@163.com
 
 <!---
